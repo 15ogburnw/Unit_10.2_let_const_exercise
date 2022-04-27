@@ -1,0 +1,21 @@
+ES2015 Global Constants
+
+Refactored:
+const PI = 3.14;
+PI = 42;
+
+Quiz
+
+1. What is the difference between var and let?
+var can be redeclared, let cannot. let has block scope.
+
+2. what is the difference between var and const?
+var can be redeclared and reassigned, const cannot. Const has 
+block scope.
+
+3. What is the difference between let and const?
+Let can be reassigned but const cannot.
+
+4. What is hoisting?
+hoisting refers to the phenomenon observed with var, where you 
+can access the variable before it is declared.
